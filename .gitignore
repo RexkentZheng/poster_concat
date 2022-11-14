@@ -1,0 +1,5 @@
+node_modules
+posters/*
+!posters/.gitkeep
+output/*
+!output/.gitkeep
