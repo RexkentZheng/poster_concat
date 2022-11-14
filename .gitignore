@@ -3,3 +3,4 @@ posters/*
 !posters/.gitkeep
 output/*
 !output/.gitkeep
+.DS_Store
